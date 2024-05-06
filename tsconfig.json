@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "lib": ["es6", "es2015"],
+        "noImplicitReturns": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "declaration": true,
+        "outDir": "dist",
+        "sourceMap": true,
+        "alwaysStrict": true,
+        "strict": true,
+        "target": "es6"
+    },
+    "compileOnSave": true,
+    "include": ["src"]
+}
